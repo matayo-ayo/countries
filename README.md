@@ -1,7 +1,7 @@
 # countries
 List of all world countries 250
 
-# _______________________________________________
+# _____________________________________________________
 ## countries-large.json
 Contain detailed list of countries
 ### format
@@ -35,7 +35,7 @@ ISO_CODE
 ```
 
 # _____________________________________________________
-## ountries-min.json
+## countries-min.json
 Contain shot listed country data
 
 ### format
